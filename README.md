@@ -1,2 +1,2 @@
-# hw-git
+# git-hw
 This repository contains my Git homework.
